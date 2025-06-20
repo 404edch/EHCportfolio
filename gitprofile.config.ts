@@ -77,7 +77,7 @@ const CONFIG = {
   ],
   experiences: [
     {
-      Current Situation: 'Looking for work!',
+      Current_Situation: 'Looking for work!',
     }
   ],
   certifications: [
