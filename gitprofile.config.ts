@@ -52,7 +52,7 @@ const CONFIG = {
     },
   },
   seo: {
-    title: 'Shizu's Portfolio',
+    title: 'My Stuff Baby XOXO',
     description: '',
     imageURL: '',
   },
