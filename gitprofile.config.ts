@@ -68,20 +68,12 @@ const CONFIG = {
       'https://shattereddisk.github.io/rickroll/rickroll.mp4', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PHP',
-    'Laravel',
     'JavaScript',
-    'React.js',
-    'Node.js',
-    'Nest.js',
-    'MySQL',
-    'PostgreSQL',
     'Git',
-    'Docker',
-    'PHPUnit',
+    'Python',
     'CSS',
-    'Antd',
-    'Tailwind',
+    'Java',
+    'LuaU',
   ],
   experiences: [
     {
