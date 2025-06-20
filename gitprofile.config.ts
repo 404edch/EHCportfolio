@@ -59,7 +59,7 @@ const CONFIG = {
   social: {
     instagram: '@dhchechin',
     youtube: '@Eduardo-tl3ft', // example: 'pewdiepie'
-    dev alias: 'shizu',
+    dev_alias: 'shizu',
     phone: '+55(41)99509-7050',
     email: 'edhchechin@gmail.com',
   },
