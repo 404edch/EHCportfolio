@@ -37,7 +37,7 @@ const CONFIG = {
     imageURL: '',
   },
   social: {
-    instagram: '@dhchechin',
+    instagram: 'dhchechin',
     youtube: 'Eduardo-tl3ft', // example: 'pewdiepie'
     dev_alias: 'shizu',
     phone: '+55(41)99509-7050',
