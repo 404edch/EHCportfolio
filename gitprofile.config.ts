@@ -32,7 +32,7 @@ const CONFIG = {
     },
   },
   seo: {
-    title: 'My Stuff Baby XOXO',
+    title: 'My Stuff Baby!XOXO',
     description: '',
     imageURL: '',
   },
