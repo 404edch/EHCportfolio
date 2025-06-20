@@ -60,12 +60,12 @@ const CONFIG = {
     instagram: '@dhchechin',
     youtube: '@Eduardo-tl3ft', // example: 'pewdiepie'
     dev alias: 'shizu',
-    phone: '+55 (41)99509-7050',
+    phone: '+55(41)99509-7050',
     email: 'edhchechin@gmail.com',
   },
   resume: {
     fileUrl:
-      'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://shattereddisk.github.io/rickroll/rickroll.mp4', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'PHP',
